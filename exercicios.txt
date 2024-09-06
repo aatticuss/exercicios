@@ -1,0 +1,25 @@
+Exercício 1) Escreva um programa que receba uma lista de números inteiros e
+exiba se cada número é par ou ímpar. O programa deve para quando o usuário
+digitar zero.
+Exercício 2) Receba uma lista com 10 números inteiros e conte quantos números
+são positivos, negativos e quantos são zero.
+Exercício 3) Escreva um programa que leia uma série de números inteiros do
+usuário, até este digitar zero. Calcule a média dos elementos desta lista.
+Exercício 4) Escreva um programa que receba uma lista com 20 números inteiros,
+após, exiba quais destes são primos.
+Exercício 5) Receba uma lista com cinco números e crie uma nova lista contendo o
+quadrado de cada número.
+Exercício 6) Considerando uma lista com 20 números inteiros, exiba os dois
+maiores e o menores números da lista.
+Exercício 7) Crie um programa que receba uma lista de 7 números e retorne o
+produto de todos os elementos.
+Exercício 8) Crie um programa que receba um número e exiba a tabuada desse
+número de 1 a 10.
+Exercício 9) Escreva um programa que calcula o fatorial de um número fornecido
+pelo usuário.
+Exercício 10) Crie um programa que leia números em ponto-flutuante do usuário,
+até este digitar zero. Depois some os elementos da lista que estão em índices pares.
+Exercício 11) Escreva um programa que receba uma palavra e exiba quantas vezes
+cada letra do alfabeto aparece nesta palavra.
+Exercício 12) Receba uma palavra e verifique se ela é um palíndromo, ou seja, se
+essa palavra pode ser lida da mesma forma de trás para frente.
